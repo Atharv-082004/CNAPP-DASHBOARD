@@ -1,3 +1,5 @@
+https://cnapp-dashboard-omega.vercel.app/
+
 # CNAPP Dashboard
 
 A responsive React dashboard assignment demo matching the provided dashboard-only screenshots, without the application sidebar or top navigation bar. Dashboard sections and their widgets are defined as JSON-shaped data in `src/main.jsx`. The UI includes widget search (use the magnifying-glass button), a date range selector, removable widgets, and an Add widgets panel for restoring existing widgets or creating a widget with a custom name and text. Changes persist in the browser's local storage.
